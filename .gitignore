@@ -1,0 +1,4 @@
+node_modules
+dist
+.npm
+.node_repl_history

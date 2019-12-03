@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex: 1;
+    margin: 0;
+    padding: 0;
+    background-color: #646464;
+    overflow: hidden;
+}
+
+canvas {
+    margin: 0;
+    padding: 0;
+}
